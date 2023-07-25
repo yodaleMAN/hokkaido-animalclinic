@@ -55,7 +55,8 @@ nav>ul>li:hover{
 nav>ul{
     display:flex;
     list-style:none;
-
+    margin-right:40px;
+    justify-content:space-evenly;
 }
 
 nav>ul>li{
@@ -64,7 +65,7 @@ nav>ul>li{
     font-size:20px;
     display:flex;
     text-align:center;
-    justify-content:space-evenly;
+    justify-content:center;
     align-items:center;
 }
 
